@@ -1,6 +1,6 @@
 ## supplemental material to the manuscript:
 
-## Unravelling pedogenetic process of forest soils in northern Patagonia, Argentinas 
+## Unravelling the pedogenetic development of forest soils in northern Patagonia, Argentina 
 
 authors:   
 Alois SIMON<sup>1,2*</sup>, Ernesto J. REITER<sup>3</sup>, Franz ZEHETNER<sup>4</sup>, María Florencia URRETAVIZCAYA<sup>5,7</sup>, Virginia ALONSO<sup>5</sup>, Gabriel A. LOGUERCIO<sup>5,6</sup>, Franz OTTNER<sup>8</sup>  Helge WALENTOWSKI<sup>1</sup>
